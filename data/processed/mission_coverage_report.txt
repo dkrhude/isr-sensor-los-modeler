@@ -1,0 +1,19 @@
+================================================================================
+AIRBORNE ISR ORBIT & SENSOR LOS COVERAGE EFFICIENCY REPORT (60-MIN MISSION)
+================================================================================
+Orbit Geometry          : Standoff Racetrack | Leg 18.0 km | Turn Radius 1.89 km
+Platform State          : Alt 6400 m AGL | Airspeed 95.0 m/s | Turn Bank 26.0 deg
+Post-Filter IMU Jitter  : 0.537 deg RMS (ingested from C11 telemetry filter)
+Target Offset (NED)     : North 2.50 km, East 15.50 km (TGT-ALPHA-01)
+--------------------------------------------------------------------------------
+Total Mission Window    : 3600 sec (60.00 min)
+Valid Sensor LOS Dwell  : 3062 sec (51.03 min)
+Coverage Efficiency     : 85.06 %
+Total LOS Dropout Time  : 538 sec across 18 banked-turn dropout events
+  - Airframe Masking    : 538 sec (Wing/Pylon & Aft Empennage Obscuration)
+  - Range/Grazing Limit : 0 sec
+--------------------------------------------------------------------------------
+Slant Range (Valid LOS) : Mean 17.84 km | Min 15.04 km | Max 21.88 km
+Oblique GSD (Valid LOS) : Mean 47.86 cm | Best 36.90 cm | Worst 64.72 cm
+Swath Width (Valid LOS) : Mean 548.1 m | Min 462.1 m | Max 672.1 m
+================================================================================

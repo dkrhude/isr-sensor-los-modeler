@@ -1,0 +1,9 @@
+.vs/
+.venv/
+__pycache__/
+*.pyc
+bin/
+*.obj
+*.exe
+*.pdb
+*.ilk
